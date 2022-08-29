@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "e6227f966f664ecc",
+    "type": "split",
+    "children": [
+      {
+        "id": "63498087852241f9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Rendering.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76b444fbf7222adb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ce9227bf2590e61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8a9426c104d40da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f6e9b6914bffcc83",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ff74b80f5f82446f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f434af760ee19799",
+    "type": "split",
+    "children": [
+      {
+        "id": "7900f94a0476426c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d848557557adde14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rendering.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c48e0b7fecbe16a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rendering.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e38e2a240c33a7b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b2378cd3cf7f80be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rendering.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "63498087852241f9",
+  "lastOpenFiles": [
+    "Prop Drilling.md",
+    "Performance.md",
+    "JSX.md",
+    "Imperative vs Declarative.md",
+    "DOM.md",
+    "Components.md",
+    "React.js.md",
+    "User Interface.md",
+    "Rendering.md",
+    "Composition.md"
+  ]
+}
