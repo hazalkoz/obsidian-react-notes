@@ -13,3 +13,4 @@ Once the rendering part is done, React starts a phase called “commit”, durin
 ⭐️ Rendering means collecting info, and it doesn’t need to result in visual [[DOM]] changes every time. 
 ⭐️ What we consider as “rendering” is a two-step process involving rendering and commit.
 
+Some changes in React can trigger [[Re-Rendering]].
