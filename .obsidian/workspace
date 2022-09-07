@@ -7,8 +7,12 @@
         "id": "63498087852241f9",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Fragments.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fragments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fragments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fragments.md"
+              }
             }
           }
         ]
@@ -122,15 +130,15 @@
   },
   "active": "63498087852241f9",
   "lastOpenFiles": [
-    "Hooks.md",
-    "UseEffect.md",
+    "UseState.md",
+    "UseRef.md",
     "Re-Rendering.md",
+    "README.md",
     "Redux.md",
-    "Rendering.md",
-    "Performance.md",
-    "Components.md",
-    "Props.md",
-    "Reusability.md",
-    "JSX.md"
+    "Virtual DOM.md",
+    "UseEffect.md",
+    "UseCallback.md",
+    "User Interface.md",
+    "Reusability.md"
   ]
 }
