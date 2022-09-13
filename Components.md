@@ -1,5 +1,3 @@
-#react
-
 All user interfaces in the end are made up of components.
 
 Why Components?
