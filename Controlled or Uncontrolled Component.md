@@ -1,0 +1,5 @@
+Let's say we have an input component. Surely, we want to get what is written in the input field an do something with it. If we use [[UseState]] to manage the input field, the input component is a **controlled** component. The input value is controlled by the state, so it is controlled by React. The state holds the value, and it is forwarded back to the element with the value prop.
+
+However, if we use a ref to manage the input, the value is now controlled by ref, and not by React. Because we are just making a connection between a JS variable and an actual DOM element. We are just fetching the value that the user entered in the input field, we don't feed data back into the input. The internal state of the element is not controlled by React, so it is an **uncontrolled** element.
+
+The concept of controlled or uncontrolled components can be valid for any kind of [[Components]].
