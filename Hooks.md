@@ -15,11 +15,11 @@ They simplify the component structure, architecture, hierarchy, code reuse, and 
     
  - [[UseState]](https://reactjs.org/docs/hooks-reference.html#usestate)
  - [[UseEffect]](https://reactjs.org/docs/hooks-reference.html#useeffect)
- -  [`useContext`](https://reactjs.org/docs/hooks-reference.html#usecontext)
+ - [[UseContext]](https://reactjs.org/docs/hooks-reference.html#usecontext)
 
 - [Additional Hooks](https://reactjs.org/docs/hooks-reference.html#additional-hooks)
     
-    -   [`useReducer`](https://reactjs.org/docs/hooks-reference.html#usereducer)
+    -   [[UseReducer]](https://reactjs.org/docs/hooks-reference.html#usereducer)
     -   [[UseCallback]](https://reactjs.org/docs/hooks-reference.html#usecallback)
     -   [`useMemo`](https://reactjs.org/docs/hooks-reference.html#usememo)
     -   [[UseRef]](https://reactjs.org/docs/hooks-reference.html#useref)
