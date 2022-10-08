@@ -34,3 +34,5 @@ useEffect(() => {
 ⭐️  The cleanup function runs right before the execution of the next scheduled effect, and before unmounting the component. The cleanup is commonly used to cancel all subscriptions made and cancel fetch requests.
 
 https://blog.logrocket.com/understanding-react-useeffect-cleanup-function/
+
+Use effect can be optimized with [[Object Destructuring]], since we can get a specific property of complex states (as in [[UseReducer]] states).
