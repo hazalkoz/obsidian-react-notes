@@ -8,3 +8,4 @@ Invoking the state updater function `setState(newState)` with the new value _
 
 After the state updater is called, React makes sure to _re-render_ the component so that the new state becomes actual.
 
+⭐️  If a state has an array/object and if setState of this state receives the same array/object (even if the content of the array/object is changed), React does not do the re-rendering operation, since it got the same thing again (checking by reference).
